@@ -1,6 +1,19 @@
+
 .contenedor{
     background-color: rgb(104, 53, 53);
     width: 100%;
     border-collapse: collapse;
     border-color: black;
+}
+
+.experiencias{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(116, 78, 78);
+}
+
+.opciones{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(130, 96, 96);
 }
