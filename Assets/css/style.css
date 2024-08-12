@@ -1,3 +1,8 @@
+.título{
+    display: flex;
+    justify-content: center;
+}
+
 
 .contenedor{
     background-color: rgb(104, 53, 53);
