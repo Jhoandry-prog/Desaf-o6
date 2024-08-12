@@ -1,4 +1,20 @@
+.bienvenida{
+    
+    
+}
+
+
 .título{
+    display: flex;
+    justify-content: center;
+}
+
+.título2{
+    display: flex;
+    justify-content: center;
+}
+
+.título3{
     display: flex;
     justify-content: center;
 }
@@ -21,4 +37,9 @@
     display: flex;
     justify-content: center;
     background-color: rgb(130, 96, 96);
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
 }
