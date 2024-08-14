@@ -1,6 +1,14 @@
+
+
 .bienvenida{
-    
-    
+    background-color: bisque;
+}
+
+
+img{
+    width: 350px;
+    height: 450px;
+    border-radius: 50px;
 }
 
 
@@ -30,7 +38,7 @@
 .experiencias{
     display: flex;
     justify-content: center;
-    background-color: rgb(116, 78, 78);
+    background-color: bisque;
 }
 
 .opciones{
@@ -39,7 +47,16 @@
     background-color: rgb(130, 96, 96);
 }
 
+.otrostrabajos{
+    background-color: bisque;
+}
+
+.contacto{
+    background-color: bisque;
+}
+
 .footer{
     display: flex;
     justify-content: center;
+    background-color: bisque;
 }
